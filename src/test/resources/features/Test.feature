@@ -29,4 +29,4 @@ Feature: Testing all operations of Calculator application
     Given calculator application is open
     When buttons "90, /, 9, =" pressed
     Then display section should display result as "10"
-    And close the calculator application        
+    And close the calculator application
